@@ -20,7 +20,7 @@ This is a full-stack Zerodha Clone project developed for educational purposes. I
 - Conditional rendering based on auth state
 - Clean state management using React Hooks
 
-##Backend (Node.js & Express)
+## Backend (Node.js & Express)
 - Node.js – JavaScript runtime environment
 - Express.js – Web framework for building REST APIs
 - Mongoose – ODM for MongoDB
