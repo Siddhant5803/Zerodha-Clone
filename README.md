@@ -7,3 +7,15 @@ This is a full-stack Zerodha Clone project developed for educational purposes. I
 - Frontend UI replicating Zerodha’s landing page
 - API protection with middleware and token verification
 - Modular project structure
+
+## Key Features
+# # Frontend (React)
+- Fully responsive, component-based UI built with React.js
+- Pages for:
+    - Home / Landing Page
+    - Register / Login
+    - Dashboard / Profile (protected by JWT)
+- Uses Axios to interact with backend REST APIs
+- Authentication token (JWT) stored in localStorage
+- Conditional rendering based on auth state
+- Clean state management using React Hooks
