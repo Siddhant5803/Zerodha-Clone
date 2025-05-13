@@ -12,9 +12,9 @@ This is a full-stack Zerodha Clone project developed for educational purposes. I
 ## Frontend (React)
 - Fully responsive, component-based UI built with React.js
 - Pages for:
-    - Home / Landing Page
-    - Register / Login
-    - Dashboard / Profile (protected by JWT)
+    + Home / Landing Page
+    + Register / Login
+    + Dashboard / Profile (protected by JWT)
 - Uses Axios to interact with backend REST APIs
 - Authentication token (JWT) stored in localStorage
 - Conditional rendering based on auth state
@@ -28,3 +28,7 @@ This is a full-stack Zerodha Clone project developed for educational purposes. I
 - dotenv – Environment variable management
 - bcryptjs – Password hashing for secure authentication
 - Nodemon – Dev tool for auto-restarting the server
+
+## Database
+- MongoDB – NoSQL database for storing user data
+- Hosted via MongoDB Atlas or local MongoDB
