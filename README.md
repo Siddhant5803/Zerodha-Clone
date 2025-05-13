@@ -8,8 +8,8 @@ This is a full-stack Zerodha Clone project developed for educational purposes. I
 - API protection with middleware and token verification
 - Modular project structure
 
-## Key Features
-# # Frontend (React)
+# Key Features
+## Frontend (React)
 - Fully responsive, component-based UI built with React.js
 - Pages for:
     - Home / Landing Page
@@ -19,3 +19,12 @@ This is a full-stack Zerodha Clone project developed for educational purposes. I
 - Authentication token (JWT) stored in localStorage
 - Conditional rendering based on auth state
 - Clean state management using React Hooks
+
+##Backend (Node.js & Express)
+- Node.js – JavaScript runtime environment
+- Express.js – Web framework for building REST APIs
+- Mongoose – ODM for MongoDB
+- JWT (jsonwebtoken) – Secure token-based authentication
+- dotenv – Environment variable management
+- bcryptjs – Password hashing for secure authentication
+- Nodemon – Dev tool for auto-restarting the server
